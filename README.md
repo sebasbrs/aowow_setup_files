@@ -4,7 +4,7 @@
 * Download our repository [Release v1.0.0](https://github.com/sebasbrs/aowow_setup_files/releases/tag/v1.0.0)
 * Extract the Zip file into MPQData folder (if not exist you can create it)
 * run your setup
-  `php aowo --setup`
+  `php aowow --setup`
 
 ## Contributing
 
